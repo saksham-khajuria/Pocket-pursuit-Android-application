@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639702949900",
+    "firebase_url": "https://pocket-pursuit-4fd96.firebaseio.com",
+    "project_id": "pocket-pursuit-4fd96",
+    "storage_bucket": "pocket-pursuit-4fd96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639702949900:android:b3aa830626e2111ed14e29",
+        "android_client_info": {
+          "package_name": "com.pocketpursuit.PP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639702949900-dgsg0qr267iqrjctivluls7sq3leb4nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0TY5NOoSilW-ykqnwukLMxYOUzWFF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639702949900-dgsg0qr267iqrjctivluls7sq3leb4nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
